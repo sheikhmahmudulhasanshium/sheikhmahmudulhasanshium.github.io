@@ -67,8 +67,4 @@
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=sheikhmahmudulhasanshium&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="contributed-repo"/></p>
 
 ### 📈 My GitHub Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg)
