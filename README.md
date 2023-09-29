@@ -12,7 +12,7 @@
 
 
 </ul>
-- 🔭 I’m currently working on [Tick-tack](https://github.com/sheikhmahmudulhasanshium/Tick-tack-toe)
+- 🔭 I’m currently working on [Product Management System](https://vercel.com/sheikhmahmudulhasanshium/product-management-system)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
 
@@ -33,9 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhmahmudulhasanshium&show_icons=true&locale=en" alt="sheikhmahmudulhasanshium" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmahmudulhasanshium&" alt="sheikhmahmudulhasanshium" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sheikhmahmudulhasanshium&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-### 📈 My GitHub Contributions
-![snake gif](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/output/github-contribution-grid-snake.gif)
