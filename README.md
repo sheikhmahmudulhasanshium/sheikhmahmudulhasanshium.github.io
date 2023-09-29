@@ -1,4 +1,4 @@
-![logo](/Blue and White Modern Business LinkedIn Article Cover Image.png)
+![logo](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/main/Blue%20and%20White%20Modern%20Business%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sheikh Mahmudul Hasan Shium</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align='right' alt='logo' width='300' src='https://media.tenor.com/4D3DhzVOu-oAAAAC/press-any-key-any-key.gif'>
