@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhmahmudulhasanshium&label=Profile%20views&color=0e75b6&style=flat" alt="view-counter" /> </p>
 
 <h3 align='left'>About</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmahmudulhasanshium" alt="sheikhmahmudulhasanshium" /></a> </p>
 
 - 🔭 I’m currently working on [Product Management System](https://vercel.com/sheikhmahmudulhasanshium/product-management-system)
 
@@ -67,3 +66,5 @@
 ### 🔝 Top Contributed Repository
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=sheikhmahmudulhasanshium&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="contributed-repo"/></p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmahmudulhasanshium" alt="sheikhmahmudulhasanshium" /></a> </p>
