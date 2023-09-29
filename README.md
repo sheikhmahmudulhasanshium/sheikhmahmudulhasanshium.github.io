@@ -68,7 +68,7 @@
 
 ### 📈 My GitHub Contributions
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
-<img src="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg" alt='snake-animation'>
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/output/github-contribution-grid-snake.svg" style="width: 100%;">
 </picture>
