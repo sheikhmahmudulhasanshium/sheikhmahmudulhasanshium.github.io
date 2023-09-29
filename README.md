@@ -20,37 +20,37 @@
 </p>
 <h3 align='left'>Education</h3>
 <table border='1'>
-  <tr>
+  <tr><b>
     <td>Passing Year</td>
     <td>Certificate</td>
     <td>Institute</td>
     <td>Board</td>
     <td>Department</td>
-    <td>Result</td>
+    <td>Result</td></b>
   </tr>
   <tr>
-    <td>2023</td>
+    <td><b>2023</b></td>
     <td>Bachelor of Science</td>
     <td>American International University - Bangladesh</td>
     <td>&nbsp;</td>
     <td>Computer Science & Engineering</td>
-    <td>3.86 out of 4.00</td>
+    <td><b>3.86</b> out of 4.00</td>
   </tr>
   <tr>
-    <td>2018</td>
+    <td><b>2018</b></td>
     <td>Higher Secondary School Certificate</td>
     <td>Abdul Kadir Mollah City College</td>
     <td>Dhaka</td>
     <td>Science</td>
-    <td>4.17 out of 5.00</td>
+    <td><b>4.17</b> out of 5.00</td>
   </tr>
   <tr>
-    <td>2016</td>
+    <td><b>2016</b></td>
     <td>Secondary School Certificate</td>
     <td>Ashuganj Tap Bidyut Kendra High School</td>
     <td>Comilla</td>
     <td>Science</td>
-    <td>4.94 out of 5.00</td>
+    <td><b>4.94</b> out of 5.00</td>
   </tr>
 </table>
 <h3 align="left">Languages and Tools:</h3>
