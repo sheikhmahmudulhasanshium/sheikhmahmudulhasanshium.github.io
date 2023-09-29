@@ -1,4 +1,3 @@
-<div bg-color="#808080">
 ![logo](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium.github.io/blob/main/Blue%20and%20White%20Modern%20Business%20LinkedIn%20Article%20Cover%20Image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sheikh Mahmudul Hasan Shium</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
@@ -62,4 +61,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheikhmahmudulhasanshium&show_icons=true&locale=en" alt="sheikhmahmudulhasanshium" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikhmahmudulhasanshium&" alt="sheikhmahmudulhasanshium" /></p>
-</div>
