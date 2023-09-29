@@ -20,13 +20,13 @@
 </p>
 <h3 align='left'>Education</h3>
 <table border='1'>
-  <tr><b>
-    <td>Passing Year</td>
-    <td>Certificate</td>
-    <td>Institute</td>
-    <td>Board</td>
-    <td>Department</td>
-    <td>Result</td></b>
+  <tr>
+    <td><b>Passing Year</b></td>
+    <td><b>Certificate</b></td>
+    <td><b>Institute</b></td>
+    <td><b>Board</b></td>
+    <td><b>Department</b></td>
+    <td><b>Result</b></td>
   </tr>
   <tr>
     <td><b>2023</b></td>
