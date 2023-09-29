@@ -66,5 +66,5 @@
 ### 🔝 Top Contributed Repository
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=sheikhmahmudulhasanshium&limit=5&theme=flat&combine_all_yearly_contributions=true" alt="contributed-repo"/></p>
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhmahmudulhasanshium" alt="sheikhmahmudulhasanshium" /></a> </p>
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/sheikhmahmudulhasanshium/sheikhmahmudulhasanshium/blob/output/github-contribution-grid-snake.svg)
