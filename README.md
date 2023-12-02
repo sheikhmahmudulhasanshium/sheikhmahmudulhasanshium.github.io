@@ -7,7 +7,7 @@
 
 <h3 align='left'>About</h3>
 
-- 🔭 I’m currently working on [Product Management System](https://vercel.com/sheikhmahmudulhasanshium/product-management-system)
+- 🔭 I’m currently working on [Product Management System](https://vercel.com/sheikhmahmudulhasanshium/product-management-system) [Discord Clone App](https://vercel.com/sheikhmahmudulhasanshium/discord-clone-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/sheikhmahmudulhasanshium](https://github.com/sheikhmahmudulhasanshium)
 
